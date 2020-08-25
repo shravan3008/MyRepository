@@ -50,3 +50,4 @@ C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplica
 C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.pdb
 C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.genruntimeconfig.cache
 C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.csprojAssemblyReference.cache
+C:\Users\sjidigam\source\repos\APIApplication\bin\Debug\netcoreapp2.2\Properties\ServiceDependencies\ShravanApp - Web Deploy\profile.arm.json

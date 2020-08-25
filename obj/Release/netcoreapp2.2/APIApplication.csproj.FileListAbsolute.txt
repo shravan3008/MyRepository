@@ -1,0 +1,19 @@
+C:\Users\sjidigam\source\repos\APIApplication\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Release\netcoreapp2.2\Properties\ServiceDependencies\ShravanApp - Web Deploy\profile.arm.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Release\netcoreapp2.2\APIApplication.deps.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Release\netcoreapp2.2\APIApplication.runtimeconfig.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Release\netcoreapp2.2\APIApplication.runtimeconfig.dev.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Release\netcoreapp2.2\APIApplication.dll
+C:\Users\sjidigam\source\repos\APIApplication\bin\Release\netcoreapp2.2\APIApplication.pdb
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.csprojAssemblyReference.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.AssemblyInfoInputs.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.AssemblyInfo.cs
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.csproj.CoreCompileInputs.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.RazorAssemblyInfo.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.RazorAssemblyInfo.cs
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.RazorTargetAssemblyInfo.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.dll
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.pdb
+C:\Users\sjidigam\source\repos\APIApplication\obj\Release\netcoreapp2.2\APIApplication.genruntimeconfig.cache

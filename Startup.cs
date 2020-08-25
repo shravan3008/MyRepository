@@ -25,7 +25,7 @@ namespace APIApplication
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-           // services.AddSingleton(sp => new WelcomeMessage(Configuration.GetValue<string>("Message", "Message Not Configured")));
+          services.AddSingleton(sp => new WelcomeMessage(Configuration.GetValue<string>("Message", "Message Not Configured")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddSingleton<ITimeEntryRepository, InMemoryTimeEntryRepository>();
         }

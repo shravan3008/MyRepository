@@ -1,0 +1,52 @@
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.deps.json
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.runtimeconfig.json
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.runtimeconfig.dev.json
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.dll
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.pdb
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.AssemblyInfoInputs.cache
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.AssemblyInfo.cs
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.csproj.CoreCompileInputs.cache
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.RazorAssemblyInfo.cache
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.RazorAssemblyInfo.cs
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.RazorTargetAssemblyInfo.cache
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.dll
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.pdb
+C:\Users\svemula35\OneDrive - DXC Production\Desktop\DotnetCore\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.genruntimeconfig.cache
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.deps.json
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.runtimeconfig.json
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.runtimeconfig.dev.json
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.dll
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.pdb
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.AssemblyInfoInputs.cache
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.AssemblyInfo.cs
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.csproj.CoreCompileInputs.cache
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.RazorAssemblyInfo.cache
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.RazorAssemblyInfo.cs
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.RazorTargetAssemblyInfo.cache
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.dll
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.pdb
+C:\Users\rthatipalli\OneDrive - DXC Production\Desktop\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.genruntimeconfig.cache
+C:\Users\sjidigam\source\repos\APIApplication\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.deps.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.runtimeconfig.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.runtimeconfig.dev.json
+C:\Users\sjidigam\source\repos\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.dll
+C:\Users\sjidigam\source\repos\APIApplication\bin\Debug\netcoreapp2.2\APIApplication.pdb
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.AssemblyInfoInputs.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.AssemblyInfo.cs
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.csproj.CoreCompileInputs.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.RazorAssemblyInfo.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.RazorAssemblyInfo.cs
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.RazorTargetAssemblyInfo.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.dll
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.pdb
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.genruntimeconfig.cache
+C:\Users\sjidigam\source\repos\APIApplication\obj\Debug\netcoreapp2.2\APIApplication.csprojAssemblyReference.cache
